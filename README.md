@@ -8,8 +8,6 @@
     It will be there for customers 24/7 on their preferred channels, and simultaneously 
     handle more queries at once. 
 
-
-
 <img src="https://miro.medium.com/max/875/1*69vLXZCjrJwdXytj0CTSiQ.jpeg">
 
 PS: Please do not forget to drop a star if you like it!
